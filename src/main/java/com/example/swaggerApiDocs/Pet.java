@@ -1,4 +1,4 @@
-package com.example.swagger2ApiDocs;
+package com.example.swaggerApiDocs;
 
 
 import lombok.AllArgsConstructor;

@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>swagger2ApiDocs</artifactId>
+	<artifactId>swaggerApiDocs</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>swagger2ApiDocs</name>
 	<description>Demo project for Spring Boot</description>

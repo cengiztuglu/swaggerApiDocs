@@ -1,4 +1,4 @@
-package com.example.swagger2ApiDocs;
+package com.example.swaggerApiDocs;
 
 import jakarta.annotation.PostConstruct;
 import org.springframework.http.ResponseEntity;
